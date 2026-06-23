@@ -4,6 +4,8 @@ html {
 
 body {
     font-family: 'Open Sans', sans-serif;
+    background-color: black;
+    color: white;
 }
 
 .navbar {
@@ -13,4 +15,25 @@ body {
 .navbar-brand,
 .navbar .nav-link {
     color: white;
+}
+
+.container {
+    max-width: 1400px;
+}
+
+.bloque-icono {
+    background-color: #00bfff;
+    width: 100%;
+    height: 40px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bloque-icono i,
+.bloque-icono svg {
+    font-size: 39px;
+    width: auto;
 }
