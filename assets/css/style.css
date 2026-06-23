@@ -3,18 +3,18 @@
    - Google Fonts: Open Sans
    - Bootstrap: v5.3.8
 */
-
 /* ===== Desplazamiento Suave ===== */
 html {
     scroll-behavior: smooth;
 }
 
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Raleway", sans-serif;
     background-color: black;
     color: white;
     font-weight: 300;
 }
+
 /* ===== Barra de navegación ===== */
 .navbar {
     background-color: transparent;
@@ -41,6 +41,7 @@ body {
     font-size: 39px;
     width: auto;
 }
+
 /* ===== Tarjetas Destacados ===== */
 .card {
     background-color: #17a2b8;
