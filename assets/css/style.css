@@ -4,9 +4,6 @@
    - Bootstrap: v5.3.8
 */
 /* ===== Desplazamiento Suave ===== */
-html {
-    scroll-behavior: smooth;
-}
 
 body {
     font-family: "Raleway", sans-serif;
