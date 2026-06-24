@@ -2,8 +2,12 @@
    RECURSOS UTILIZADOS:
    - Google Fonts: Raleway
    - Bootstrap: v5.3.8
+   -Smooth scroll (Bootstrap CSS) - Desplazamiento suave
 */
 /* ===== Desplazamiento Suave ===== */
+html {
+    scroll-behavior: smooth;
+}
 
 body {
     font-family: "Raleway", sans-serif;
